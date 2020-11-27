@@ -1,0 +1,74 @@
+body{
+    background-color: white;
+}
+header{
+    text-align: center;
+    background-color: antiquewhite;
+}
+nav{
+    background-color: aqua;
+    text-align: center;
+}
+
+
+footer{
+    background-color: antiquewhite;
+    text-align: center;
+}
+img.izquierda{
+    float: left;
+}
+img.derecha{
+    float: right;
+}
+p.parada{
+    clear: both;
+}
+div.azul{
+    background-color: blue;
+}
+p.azul{
+    color: blue;
+}
+article.blanco{
+    background-color: white;
+    border: antiquewhite 10px solid;
+    border-bottom: none;
+}
+article.marino{
+    background-color: aqua;
+    color: red;
+    border: antiquewhite 10px solid;
+    border-top: none;
+    border-bottom: none;
+}
+div.rojo{
+    background-color: red;
+}
+div.parada{
+    clear: both;
+    }
+    div.blanco{
+        background-color: white;
+    }
+    span.amarillo{
+        background-color: yellow;
+    }
+    span.tachado{
+        text-decoration: line-through;
+    }
+    body.verde{
+        background-color: green;
+    }
+    table{
+        background-color: antiquewhite;
+    }
+    td{
+        border: blue 2px solid;
+    }
+    th.a{
+        border: blue 2px solid;
+    }
+    table{
+        border: red 2px solid;
+    }
